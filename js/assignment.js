@@ -10,7 +10,7 @@ const submissionBtn = document.getElementById("submission-btn")
 // Declare your variables here.
 
 const currentYear = 2025;
-const resolution = "I will do enough work to take hold of an entry level front end development position, play music and excercise regularly, as well as sell artwork.";
+const resolution = "I will play music and excercise regularly, as well as sell artwork. Hope to (no resolution) do enough work through the year to take hold of an entry level front end development position,";
 
 let willMeetResolution = "YES!";
 
